@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <prep>
+    <assembly>
+      PUSHW[ ]  /* 1 value pushed */
+      0
+      CALL[ ]
+      SVTCA[0]
+      PUSHW[ ]  /* 3 values pushed */
+      1 4 2
+      CALL[ ]
+      SVTCA[1]
+      PUSHW[ ]  /* 3 values pushed */
+      5 1 2
+      CALL[ ]
+      SVTCA[1]
+      PUSHW[ ]  /* 8 values pushed */
+      5 42 35 27 20 12 0 8
+      CALL[ ]
+      SVTCA[0]
+      PUSHW[ ]  /* 8 values pushed */
+      1 106 87 68 49 29 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      2 63 52 40 29 19 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      3 76 62 49 35 23 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      4 88 72 56 40 23 0 8
+      CALL[ ]
+      SVTCA[0]
+      PUSHW[ ]  /* 3 values pushed */
+      6 5 7
+      CALL[ ]
+      PUSHW[ ]  /* 1 value pushed */
+      0
+      DUP[ ]
+      RCVT[ ]
+      RDTG[ ]
+      ROUND[01]
+      RTG[ ]
+      WCVTP[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      16 8 1
+      DELTAC2[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      48 8 1
+      DELTAC2[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      223 10 1
+      DELTAC2[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      15 12 1
+      DELTAC1[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      63 12 1
+      DELTAC1[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      223 12 1
+      DELTAC1[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      31 12 1
+      DELTAC2[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      79 12 1
+      DELTAC2[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      127 12 1
+      DELTAC2[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      239 12 1
+      DELTAC2[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      31 12 1
+      DELTAC3[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      95 12 1
+      DELTAC3[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      143 12 1
+      DELTAC3[ ]
+      MPPEM[ ]
+      PUSHW[ ]  /* 1 value pushed */
+      48
+      GT[ ]
+      IF[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      1
+      ELSE[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      0
+      EIF[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      1
+      INSTCTRL[ ]
+    </assembly>
+  </prep>
+
+</ttFont>

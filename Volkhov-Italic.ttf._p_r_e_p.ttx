@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <prep>
+    <assembly>
+      PUSHW[ ]  /* 1 value pushed */
+      0
+      CALL[ ]
+      SVTCA[0]
+      PUSHW[ ]  /* 3 values pushed */
+      1 4 2
+      CALL[ ]
+      SVTCA[1]
+      PUSHW[ ]  /* 3 values pushed */
+      5 1 2
+      CALL[ ]
+      SVTCA[1]
+      PUSHW[ ]  /* 8 values pushed */
+      5 52 43 34 24 15 0 8
+      CALL[ ]
+      SVTCA[0]
+      PUSHW[ ]  /* 8 values pushed */
+      1 138 113 88 63 37 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      2 77 63 51 37 23 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      3 106 87 68 45 26 0 8
+      CALL[ ]
+      PUSHW[ ]  /* 8 values pushed */
+      4 92 75 59 45 26 0 8
+      CALL[ ]
+      SVTCA[0]
+      PUSHW[ ]  /* 3 values pushed */
+      6 5 7
+      CALL[ ]
+      PUSHW[ ]  /* 1 value pushed */
+      0
+      DUP[ ]
+      RCVT[ ]
+      RDTG[ ]
+      ROUND[01]
+      RTG[ ]
+      WCVTP[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      223 10 1
+      DELTAC2[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      15 12 1
+      DELTAC1[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      63 12 1
+      DELTAC1[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      223 12 1
+      DELTAC1[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      31 12 1
+      DELTAC2[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      127 12 1
+      DELTAC2[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      239 12 1
+      DELTAC2[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      31 12 1
+      DELTAC3[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      143 12 1
+      DELTAC3[ ]
+      PUSHW[ ]  /* 3 values pushed */
+      95 12 1
+      DELTAC3[ ]
+      MPPEM[ ]
+      PUSHW[ ]  /* 1 value pushed */
+      50
+      GT[ ]
+      IF[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      1
+      ELSE[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      0
+      EIF[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      1
+      INSTCTRL[ ]
+    </assembly>
+  </prep>
+
+</ttFont>

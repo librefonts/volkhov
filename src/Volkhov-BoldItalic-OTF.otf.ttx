@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Volkhov-BoldItalic-OTF.otf.GlyphOrder.ttx"/>
+  <head src="Volkhov-BoldItalic-OTF.otf._h_e_a_d.ttx"/>
+  <hhea src="Volkhov-BoldItalic-OTF.otf._h_h_e_a.ttx"/>
+  <maxp src="Volkhov-BoldItalic-OTF.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Volkhov-BoldItalic-OTF.otf.O_S_2f_2.ttx"/>
+  <name src="Volkhov-BoldItalic-OTF.otf._n_a_m_e.ttx"/>
+  <cmap src="Volkhov-BoldItalic-OTF.otf._c_m_a_p.ttx"/>
+  <post src="Volkhov-BoldItalic-OTF.otf._p_o_s_t.ttx"/>
+  <CFF src="Volkhov-BoldItalic-OTF.otf.C_F_F_.ttx"/>
+  <GPOS src="Volkhov-BoldItalic-OTF.otf.G_P_O_S_.ttx"/>
+  <hmtx src="Volkhov-BoldItalic-OTF.otf._h_m_t_x.ttx"/>
+  <kern src="Volkhov-BoldItalic-OTF.otf._k_e_r_n.ttx"/>
+</ttFont>
