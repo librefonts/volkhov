@@ -1,0 +1,8 @@
+commit: HEAD
+process_files: [Volkhov-Regular.ttf.ttx, Volkhov-Bold.ttf.ttx, Volkhov-Italic.ttf.ttx,
+  Volkhov-BoldItalic.ttf.ttx, src/Volkhov-Bold-OTF.otf.ttx, src/Volkhov-BoldItalic-OTF.otf.ttx,
+  src/Volkhov-Italic-OTF.otf.ttx, src/Volkhov-Regular-OTF.otf.ttx, src/Volkhov-Italic-TTF.sfd,
+  src/Volkhov-BoldItalic-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

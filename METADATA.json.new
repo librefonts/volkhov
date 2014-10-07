@@ -1,0 +1,69 @@
+{
+  "name": "Volkhov",
+  "designer": "Cyreal",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Serif",
+  "size": 55281,
+  "fonts": [
+    {
+      "name": "Volkhov",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Volkhov-BoldItalic.ttf",
+      "postScriptName": "Volkhov-BoldItalic",
+      "fullName": "Volkhov Bold Italic",
+      "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Volkhov\" and \"Volkhov Bold Italic\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Volkhov",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Volkhov-Regular.ttf",
+      "postScriptName": "Volkhov-Regular",
+      "fullName": "Volkhov-Regular",
+      "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Volkhov\" and \"Volkhov Regular\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Volkhov",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Volkhov-Bold.ttf",
+      "postScriptName": "Volkhov-Bold",
+      "fullName": "Volkhov Bold",
+      "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Volkhov\" and \"Volkhov Bold\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Volkhov",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Volkhov-BoldItalic-TTF.ttf",
+      "postScriptName": "Volkhov-BoldItalic",
+      "fullName": "Volkhov Bold Italic",
+      "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\nwith Reserved Font Name \"Volkhov\" and \"Volkhov Bold Italic\".\n\nThis Font Software is licensed under the SIL Open Font License,\nVersion 1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Volkhov",
+      "style": "italic",
+      "weight": 400,
+      "filename": "Volkhov-Italic.ttf",
+      "postScriptName": "Volkhov-Italic",
+      "fullName": "Volkhov Italic",
+      "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Volkhov\" and \"Volkhov Italic\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Volkhov",
+      "style": "italic",
+      "weight": 400,
+      "filename": "Volkhov-Italic-TTF.ttf",
+      "postScriptName": "Volkhov-Italic",
+      "fullName": "Volkhov Italic",
+      "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\nwith Reserved Font Name \"Volkhov\" and \"Volkhov Italic\".\n\nThis Font Software is licensed under the SIL Open Font License,\nVersion 1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-08-17"
+}
